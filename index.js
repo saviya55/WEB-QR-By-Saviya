@@ -14,13 +14,13 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 ✨🔰THANK YOU FOR USE PRABATH-MD🔰✨ 』*
+║ *『 ✨🔰THANK YOU FOR USE SAVIYA-MD🔰✨ 』*
 ╚════════════════════════╝
 
-👋 Hello, Welcome to PRABATH-MD WhatsApp User Bot
+👋 Hello, Welcome to SAVIYA-MD WhatsApp User Bot
 
 *🌏. Website:* https://prabath--md-official.vercel.app/
-*👨‍💻. Owners:* Prabath Kumara & Sachintha
+*👨‍💻. Owner:* Saviya-Md
 *🎡. Github:*  https://github.com/prabathLK/PRABATH-MD
 *🪩. Our community:* https://chat.whatsapp.com/BdB1HCIvOhtFMO6FIocB6N
 *🪄. Our channel:* https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x
