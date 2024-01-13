@@ -142,4 +142,7 @@ SESSION-ID ==> ${Scan_Id}
 
 app.listen(PORT, () => console.log(`App listened on port http://localhost:${PORT}`));
 
+<body>
+
 <script src="index.html"></script>
+<body/>
