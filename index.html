@@ -1,21 +1,58 @@
-<script>
-<style>
- function changeColor() {
- // Get the body element
- var body = document.body;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCAN QR CODE</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            transition: background-color 2s ease-in-out;
+        }
 
- // Generate random RGB values (0-255)
- var red = Math.floor(Math.random() * 256);
- var green = Math.floor(Math.random() * 256);
- var blue = Math.floor(Math.random() * 256);
+        img {
+            max-width: 100%;
+            max-height: 100%;
+            display: block;
+        }
 
- // Set the background color using RGB format
- body.style.backgroundColor = "rgb(" + red + ", " + green + ", " + blue + ")";
-}
+        footer {
+            text-align: center;
+            position: fixed;
+            bottom: 10px;
+            width: 100%;
+            color: white;
+        }
+    </style>
+</head>
+<body>
 
-// Use setInterval to call the changeColor function every 2 seconds
-setInterval(changeColor, 2000);
-</style>
-</script>
+    <img id="qrImage" src="YOUR_IMAGE_URL" alt="QR Code Image">
 
-<script src="index.js"></script>
+    <footer>
+        saviya-md
+    </footer>
+
+    <script>
+        function changeBackgroundColor() {
+            const colors = [
+                'rgb(255, 0, 0)',
+                'rgb(0, 255, 0)',
+                'rgb(0, 0, 255)',
+                // Add more colors as needed
+            ];
+
+            const randomColor = colors[Math.floor(Math.random() * colors.length)];
+            document.body.style.backgroundColor = randomColor;
+        }
+
+        // Change background color every 5 seconds (5000 milliseconds)
+        setInterval(changeBackgroundColor, 5000);
+    </script>
+
+</body>
+</html>
