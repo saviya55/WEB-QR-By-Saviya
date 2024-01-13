@@ -20,11 +20,11 @@ const MESSAGE = process.env.MESSAGE ||  `
 
 👋 Hello, Welcome to PRABATH-MD WhatsApp User Bot
 
-🌏. Website: https://prabath--md-official.vercel.app/
-👨‍💻. Owners: Prabath Kumara & Sachintha
-🎡. Github:  https://github.com/prabathLK/PRABATH-MD
-🪩. Our community: https://chat.whatsapp.com/BdB1HCIvOhtFMO6FIocB6N
-🪄. Our channel: https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x
+*🌏. Website:* https://prabath--md-official.vercel.app/
+*👨‍💻. Owners:* Prabath Kumara & Sachintha
+*🎡. Github:*  https://github.com/prabathLK/PRABATH-MD
+*🪩. Our community:* https://chat.whatsapp.com/BdB1HCIvOhtFMO6FIocB6N
+*🪄. Our channel:* https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x
 `
 
 
