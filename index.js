@@ -141,3 +141,34 @@ SESSION-ID ==> ${Scan_Id}
 
 
 app.listen(PORT, () => console.log(`App listened on port http://localhost:${PORT}`));
+
+<body>
+
+    <!DOCTYPE html>
+<html>
+<head>
+<title>RGB Color Change Background</title>
+</head>
+<body>
+  </body>
+</html>
+
+<script>
+function changeColor() {
+  // Get the body element
+  var body = document.body;
+
+  // Generate random RGB values (0-255)
+  var red = Math.floor(Math.random() * 256);
+  var green = Math.floor(Math.random() * 256);
+  var blue = Math.floor(Math.random() * 256);
+
+  // Set the background color using RGB format
+  body.style.backgroundColor = "rgb(" + red + ", " + green + ", " + blue + ")";
+}
+
+// Call the changeColor function when the page loads
+window.onload = changeColor;
+</script>
+
+    </body>
