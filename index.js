@@ -14,8 +14,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 THANK YOU CHOOSE PRABATH-MD 』*
-║ _You complete first step to making Bot._
+║ *『 ✨🔰THANK YOU FOR USE PRABATH-MD🔰✨ 』*
 ╚════════════════════════╝
 
 👋 Hello, Welcome to PRABATH-MD WhatsApp User Bot
