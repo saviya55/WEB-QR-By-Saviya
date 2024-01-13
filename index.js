@@ -176,9 +176,7 @@ function changeColor() {
 window.onload = changeColor;
 </script>
 
-<script src="index.js"></script>
 
-<script src="scripts/index.js"></script>
 </style>
 </head>
 </script>
