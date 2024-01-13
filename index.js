@@ -142,11 +142,8 @@ SESSION-ID ==> ${Scan_Id}
 
 app.listen(PORT, () => console.log(`App listened on port http://localhost:${PORT}`));
 
-
-<body>
 <script>
-    
-  function changeColor() {
+// function changeColor() {
   // Get the body element
   var body = document.body;
 
@@ -161,4 +158,7 @@ app.listen(PORT, () => console.log(`App listened on port http://localhost:${PORT
 
 // Use setInterval to call the changeColor function every 2 seconds
 setInterval(changeColor, 2000);
+
+</script>
+
   
