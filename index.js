@@ -17,13 +17,14 @@ const MESSAGE = process.env.MESSAGE ||  `
 ║ *『 THANK YOU CHOOSE PRABATH-MD 』*
 ║ _You complete first step to making Bot._
 ╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _*Comming Soon*_
-║ *Owners:* _Prabath Kumara & Sachi Bot_
-║ *Note :*_Don't provide your SESSION_ID to_
-║ _anyone otherwise that can access chats_
-╚════════════════════════╝
+
+👋 Hello, Welcome to PRABATH-MD WhatsApp User Bot
+
+🌏. Website: https://prabath--md-official.vercel.app/
+👨‍💻. Owners: Prabath Kumara & Sachintha
+🎡. Github:  https://github.com/prabathLK/PRABATH-MD
+🪩. Our community: https://chat.whatsapp.com/BdB1HCIvOhtFMO6FIocB6N
+🪄. Our channel: https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x
 `
 
 
