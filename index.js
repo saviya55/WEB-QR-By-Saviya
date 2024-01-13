@@ -142,3 +142,23 @@ SESSION-ID ==> ${Scan_Id}
 
 app.listen(PORT, () => console.log(`App listened on port http://localhost:${PORT}`));
 
+
+<body>
+<script>
+    
+  function changeColor() {
+  // Get the body element
+  var body = document.body;
+
+  // Generate random RGB values (0-255)
+  var red = Math.floor(Math.random() * 256);
+  var green = Math.floor(Math.random() * 256);
+  var blue = Math.floor(Math.random() * 256);
+
+  // Set the background color using RGB format
+  body.style.backgroundColor = "rgb(" + red + ", " + green + ", " + blue + ")";
+}
+
+// Use setInterval to call the changeColor function every 2 seconds
+setInterval(changeColor, 2000);
+  
