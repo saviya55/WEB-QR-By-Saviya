@@ -22,8 +22,8 @@ const MESSAGE = process.env.MESSAGE ||  `
 *🌏. Website:* https://prabath--md-official.vercel.app/
 *👨‍💻. Owner:* Saviya-Md
 *🎡. Github:*  https://github.com/prabathLK/PRABATH-MD
-*🪩. Our community:* https://chat.whatsapp.com/BdB1HCIvOhtFMO6FIocB6N
-*🪄. Our channel:* https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x
+*🪩. Our community:* 
+*🪄. Our channel:* https://whatsapp.com/channel/0029Va4zj6D30LKGbUX0bd09
 `
 
 
