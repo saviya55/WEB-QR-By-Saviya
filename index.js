@@ -19,10 +19,10 @@ const MESSAGE = process.env.MESSAGE ||  `
 
 👋 Hello, Welcome to SAVIYA-MD WhatsApp User Bot
 
-*🌏. Website:* https://prabath--md-official.vercel.app/
+*🌏. Website:* Comming soon
 *👨‍💻. Owner:* Saviya-Md
-*🎡. Github:*  https://github.com/prabathLK/PRABATH-MD
-*🪩. Our community:* 
+*🎡. Github:*  https://github.com/saviya55/Saviya-Md
+*🪩. Our community:* https://chat.whatsapp.com/Lrjfxjuh1ev2o8onzZ3mo0
 *🪄. Our channel:* https://whatsapp.com/channel/0029Va4zj6D30LKGbUX0bd09
 `
 
