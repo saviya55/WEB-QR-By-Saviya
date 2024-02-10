@@ -50,7 +50,7 @@ if (fs.existsSync('./auth_info_baileys')) {
       let Smd =SuhailWASocket({ 
         printQRInTerminal: false,
         logger: pino({ level: "silent" }), 
-        browser: Browsers.baileys("Desktop"),
+        browser: Browsers.Ubuntu("Desktop"),
         auth: state 
         });
 
