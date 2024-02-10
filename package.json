@@ -1,6 +1,6 @@
 {
     "name": "web-qr",
-    "version": "0.0.1",
+    "version": "6.6.0",
     "description": "A multi functional whatsapp bot Web Qr Scanner.",
     "main": "index.js",
     "scripts": {
