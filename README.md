@@ -19,7 +19,7 @@
 ## Deployment Methods
 ---
 1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=(https://github.com/saviya55/WEB-QR-By-Saviya).***
 3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
